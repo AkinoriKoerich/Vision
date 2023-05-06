@@ -1,5 +1,5 @@
 body{
-    background-color: #f4f7f6;
+    background-color: #303030;
     margin-top:20px;
 }
 
@@ -22,7 +22,7 @@ body{
 
 .card {
     height: 600px;
-    background: #fff;
+    background: #b6b4b4;
     transition: .5s;
     border: 0;
     margin-bottom: 30px;
@@ -64,7 +64,7 @@ body{
 }
 
 .people-list .chat-list li:hover {
-    background: #efefef;
+    background: #8b8b8b;
     cursor: pointer
 }
 
@@ -98,7 +98,7 @@ body{
 
 .chat .chat-header {
     padding: 15px 20px;
-    border-bottom: 2px solid #f4f7f6
+    border-bottom: 2px solid #a7a7a7
 }
 
 .chat .chat-header img {
@@ -114,7 +114,7 @@ body{
 
 .chat .chat-history {
     padding: 20px;
-    border-bottom: 2px solid #fff
+    border-bottom: 2px solid #b6b4b4
 }
 
 .chat .chat-history ul {
@@ -210,7 +210,8 @@ body{
 }
 
 .online {
-    color: #86c541
+    color: #86c541;
+    font-size: 10px;
 }
 
 .offline {
